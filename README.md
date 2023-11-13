@@ -13,7 +13,7 @@ Exécuter `git log`.
 
 ### Changement expérimentaux
 
-Pour faire des changements expérimentaux, créer une nouvelle branche : `git checkout -b <name>`.
+Pour faire des changements expérimentaux, créer une nouvelle branche.
 
 ### Mettre de côté son travail
 

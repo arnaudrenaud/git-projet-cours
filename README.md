@@ -20,3 +20,7 @@ Pour faire des changements expérimentaux, créer une nouvelle branche.
 Exécuter `git stash` pour mettre le travail en cours de côté.
 Exécuter `git stash pop` pour le remettre dans l'espace de travail.
 Exécuter `git stash list` pour voir les différents ajouts.
+
+## Pull requests
+
+Une pull request est un fil de discussion pour améliorer une branche avant de l'incorporer à la branche principale.

@@ -24,3 +24,4 @@ Exécuter `git stash list` pour voir les différents ajouts.
 ## Pull requests
 
 Une pull request est un fil de discussion pour améliorer une branche avant de l'incorporer à la branche principale.
+Une fois poussée, d'autres commits peuvent être ajoutés à la branche et apparaîtront dans la pull request.

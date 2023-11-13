@@ -14,3 +14,5 @@ Exécuter `git log`.
 ### Changement expérimentaux
 
 Pour faire des changements expérimentaux, créer une nouvelle branche : `git checkout -b <name>`.
+
+Modif sur main

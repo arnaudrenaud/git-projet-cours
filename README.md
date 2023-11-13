@@ -15,4 +15,8 @@ Exécuter `git log`.
 
 Pour faire des changements expérimentaux, créer une nouvelle branche : `git checkout -b <name>`.
 
-Modif sur main
+### Mettre de côté son travail
+
+Exécuter `git stash` pour mettre le travail en cours de côté.
+Exécuter `git stash pop` pour le remettre dans l'espace de travail.
+Exécuter `git stash list` pour voir les différents ajouts.

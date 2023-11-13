@@ -10,3 +10,7 @@ Exécuter `git add .` puis `git commit -m 'Titre du commit'`.
 ### Visualiser l'historique
 
 Exécuter `git log`.
+
+### Changement expérimentaux
+
+Pour faire des changements expérimentaux, créer une nouvelle branche.

@@ -9,7 +9,7 @@ Exécuter `git add .` puis `git commit -m 'Titre du commit'`.
 
 ### Visualiser l'historique
 
-Exécuter `git log`.
+Exécuter `git log`. Vous verrez la liste des commits, du plus récent au plus ancien, en partant de la tête de lecture actuelle.
 
 ### Changement expérimentaux
 
